@@ -15,5 +15,9 @@ public class synthRemasteredGUI {
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 	}
+	
+	public static class audioInfo {
+		public static final int SAMPLE_RATE = 44100;
+	}
 
 }
